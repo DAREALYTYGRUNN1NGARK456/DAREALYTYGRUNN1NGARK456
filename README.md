@@ -1,6 +1,7 @@
 <center>
 <h2> Hey there! I'm Andrew</h2>
-<div align="left"><img alt="Support"src="https://discord.c99.nl/widget/theme-2/480067805115318303.png"></div>
+<div align="left">
+ <img src="https://discord.c99.nl/widget/theme-2/375695336632745987.png"></div>
 <div align="left"><img alt="Andrew"src="https://komarev.com/ghpvc/?username=DAREALYTYGRUNN1NGARK456&style=social&label=PROFILE+VIEWS&color=blue">
  <a href="https://andrewtyd.ga">
 <img alt="Website" src="https://img.shields.io/badge/Website-andrewtyd.ga-blue?style=social&logo=google-chrome"></a> 
