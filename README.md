@@ -13,6 +13,7 @@
 <div style="background-color: #fff;">
 <p align="left"> 
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  <a href="https://sass-lang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
  <a href="https://www.electronjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> 
  <a href="https://expressjs.com" target="_blank"> <img style="background: #fff;"  src="https://raw.githubusercontent.com/DAREALYTYGRUNN1NGARK456/devicon/refs/heads/master/icons/express/express.svg" alt="express" width="40" height="40"/>
  <svg color="#fff" viewBox="0 0 160 40" xmlns="http://www.w3.org/2000/svg">
