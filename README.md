@@ -3,7 +3,7 @@
 <div align="left">
  <img src="https://discord.c99.nl/widget/theme-2/375695336632745987.png"></div>
 <div align="left"><img alt="Andrew"src="https://komarev.com/ghpvc/?username=DAREALYTYGRUNN1NGARK456&style=social&label=PROFILE+VIEWS&color=blue">
- <a href="https://andrewtyd.ga">
+ <a href="https://yeetdesigns.cc">
 <img alt="Website" src="https://img.shields.io/badge/Website-yeetdesigns.cc-blue?style=social&logo=google-chrome"></a> 
 <!--
 <a href="https://avux.ga/"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-Avux-red?style=flat-square&logo=youtube"></a>
